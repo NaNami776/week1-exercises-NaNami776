@@ -9,3 +9,12 @@ Now, using the text editor of your choice (e.g., Atom), open this file.
 1. Using your terminal, add and commit the changes that you've made to your repository.
 
 1. Push the changes to GitHub, and then view them in your web browser.
+
+
+# Favorite Courses
+| course number        | course title           | instructor name  |
+| ------------- |:-------------:| -----:|
+| **math 124**      | _calculus I_ | Ostroff |
+| **math 125**      | _calculus II_      |   Ostroff |
+| **math 126**      | _calculus III_      |    Ostroff |
+
